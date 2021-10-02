@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mbodji98
-- 👀 I’m interested in Technology and Informatic
+- 👀 I’m interested in Technology and Informatics
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on mobile, web or desktop projects
 - 📫 How to reach me ...
