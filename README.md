@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub repository! I'm Papa Abou Mbodji, a software developer with a passion for Data and Artificial Intelligence.
+Welcome to my GitHub repository! I'm Papa Abou Mbodji, a Software Developer with a passion for Data and Artificial Intelligence.
 This repository is a reflection of my journey as a software developer and an apprentice in the fascinating world of Data and AI, where I explore, learn, and create.
 
 # About Me
